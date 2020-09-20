@@ -1,2 +1,3 @@
 # SecNote
-security notebook
+
+just a security notebook.
